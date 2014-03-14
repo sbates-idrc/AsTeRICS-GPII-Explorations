@@ -19,12 +19,12 @@ client.DeployModel(model, function (err, response) {
     } else {
         console.log(response);
         client.RunModel(function (err, response) {
-		    if (err) {
-		        console.error(err);
-		    } else {
-		        console.log(response);
-		        connection.end();
-		    }
+            if (err) {
+                console.error(err);
+            } else {
+                console.log(response);
+                connection.end();
+            }
         });
     }
 });
