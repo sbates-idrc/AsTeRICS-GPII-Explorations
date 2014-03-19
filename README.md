@@ -1,6 +1,13 @@
 ##About##
 
-Experiments with AsTeRICS and JavaScript.
+This repository contains code to explore and prototype interactions between AsTeRICS and GPII.
+
+For more information on the AsTeRICS and GPII projects, please see:
+
+ * AsTeRICS: http://www.asterics.eu/
+ * AsTeRICS on GitHub: https://github.com/asterics/AsTeRICS
+ * GPII: http://gpii.net/
+ * GPII on GitHub: https://github.com/GPII
 
 ##Node.js Binding for ASAPI##
 
