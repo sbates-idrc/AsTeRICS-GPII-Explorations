@@ -1,6 +1,6 @@
 ##About##
 
-This repository contains code to explore and prototype interactions between AsTeRICS and GPII.
+This repository contains code for exploring and prototyping interactions between AsTeRICS and GPII.
 
 For more information on the AsTeRICS and GPII projects, please see:
 
